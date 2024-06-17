@@ -1,0 +1,53 @@
+.countrie img {
+  display: flex;
+  margin: 0px 840px 0px;
+  margin-top: -2190px;
+}
+.All-countries {
+  margin: 50px 0px 60px 0px;
+}
+.All-countries h1 {
+  margin: 140px 160px 50px;
+  color: #24572c;
+  font-size: 39px;
+}
+
+.All-countries h3 {
+  margin: 0px 160px 20px;
+  color: #0f572d;
+}
+
+.All-countries ul {
+  margin: 30px 800px 0px 90px;
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.All-countries li {
+  margin: 0px 140px 10px 0px;
+  background-color: #ebebeb;
+  border: 2px solid #0f572d;
+  -webkit-border-radius: 5px;
+
+  border-radius: 20px !important;
+  width: 90%;
+  color: #0f572d;
+  align-items: center;
+  font-style: oblique;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-coun {
+  width: 40vw;
+  height: 800px;
+  border: 1px solid #ebebeb;
+  padding: 10px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.green{
+    margin: 1350px 0px 0px 0px;
+}

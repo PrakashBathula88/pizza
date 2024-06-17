@@ -1,0 +1,54 @@
+.green-back {
+  width: 100vw;
+  background-color: #0f572d;
+  height: 260px;
+  color: rgb(255, 255, 255);
+  display: flex;
+}
+.policy {
+  list-style-type: none;
+  margin-left: 100px;
+  top: 100px;
+  cursor: pointer;
+  font-size: 14px;
+}
+.policy li {
+  margin-top: 18px;
+  font-style: italic;
+}
+.policy h3 {
+  font-size: 15px;
+  border-bottom: 2px solid white;
+  width: 100px;
+  text-transform: uppercase;
+}
+.img-tag {
+  display: grid;
+  grid-template-columns: repeat(3, 3fr);
+  gap: 10px;
+}
+.pay {
+  margin-left: 100px;
+}
+.all-pay {
+  margin-left: 300px;
+}
+
+.support {
+  margin-left: 300px;
+  margin-top: -20px;
+}
+.support li {
+  list-style-type: none;
+}
+.All-cue {
+  margin-left: 80px;
+}
+
+.copy {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #0f572d;
+  font-style: oblique;
+}

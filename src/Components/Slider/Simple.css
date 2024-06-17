@@ -1,0 +1,23 @@
+.slider-container {
+  width: 100vw;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.simple-slider {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.slider-item {
+  padding: 40 10px; 
+  box-sizing: border-box; 
+
+}
+
+.slider-image {
+  width: 98%;
+  height: auto;
+  border-radius: 7px;
+  object-fit: cover;
+}

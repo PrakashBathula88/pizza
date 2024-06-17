@@ -1,0 +1,13 @@
+.Container {
+  margin-left: 152px;
+}
+.ulinmi-tags {
+  width: 90%;
+  max-width: 100%;
+  margin-left: 20px;
+  height: 100%;
+  object-fit: cover;
+  display: flex;
+  gap: 10px;
+  list-style-type: none;
+}

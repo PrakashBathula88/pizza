@@ -1,0 +1,60 @@
+.All-franchise {
+  margin: 130px;
+  display: flex;
+  top: 100px;
+}
+
+.theory-franchise {
+  margin: 10px 10px 10px;
+  font-size: 17px;
+}
+.All-franchise h3 {
+  color: rgba(0, 0, 0, 0.468);
+}
+.All-franchise H2 {
+  color: #00572d;
+}
+.theory-franchise p {
+  font-size: 14px;
+  line-height: 24px;
+  margin-top: 10px;
+}
+.All-franchise span {
+  color: rgba(0, 0, 0, 0.903);
+}
+.All-franchise strong {
+  color: rgb(0, 0, 0);
+}
+
+.All-form-content {
+  display: grid;
+  grid-template-columns: repeat(2, 3fr);
+  flex: 0 0 50%;
+  max-width: 50%;
+  margin: 0px 0px 180px;
+  gap: 20px;
+  width: 600px;
+}
+.All-form-content input {
+  font-size: 45px;
+  width: 350px;
+  background-color: white;
+  border-radius: 4px;
+}
+.All-form-content input::placeholder {
+  font-size: 14px;
+}
+
+.All-form-content button {
+  margin: 50px;
+  padding: 20px;
+  width: 150px;
+  cursor: pointer;
+  background-color: #00572de6;
+  color: black;
+  border-radius: 10px;
+}
+.share {
+  font-size: 30px;
+  color: rgba(0, 0, 0, 0.699);
+}

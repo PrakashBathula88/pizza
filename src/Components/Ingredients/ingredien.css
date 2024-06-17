@@ -1,0 +1,24 @@
+.All-ingredients {
+  display: flex;
+  width: 100vw;
+  margin-top: 50px;
+  background-color: #f2f2f2;
+}
+
+/* .ingredient-pizza {
+  display: grid;
+} */
+.img-tag {
+  width: 100%;
+  max-width: 100px;
+  margin-bottom: 15px;
+  margin-left: 130px;
+}
+.parag {
+  text-wrap: balance;
+  font-style: italic;
+  margin-left: 19px;
+}
+.text-tgg {
+  margin-left: 130px;
+}

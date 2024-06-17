@@ -1,0 +1,31 @@
+.All-journey {
+  background-color: #f2f2f2;
+}
+
+.aLL-PARA-joiyyy {
+  display: flex;
+  font-size: 14px;
+  margin-left: 152px;
+  color: rgba(0, 0, 0, 0.708);
+}
+.aLL-PARA-joiyyy h2 {
+  margin-left: 28px;
+}
+.aLL-PARA-joiyyy img {
+  width: 60px;
+  margin-left: 28px;
+}
+
+.para-journey {
+  margin-left: 152px;
+}
+
+.All-pizza {
+  margin-left: 60%;
+  margin-top: -430px;
+  border-radius: 50%;
+  width: 34%;
+  max-width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

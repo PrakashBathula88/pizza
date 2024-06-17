@@ -1,0 +1,43 @@
+.All-nav-items {
+  background-color: #ffff;
+  padding: 9px 0px;
+  width: 100vw;
+  position: fixed; 
+  top: 0;
+  left: 0;
+  z-index: 1000; 
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 0px 8px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.unorderlist {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+.image-tag {
+  width: 670px;
+}
+
+.img-fori {
+  width: auto;
+  max-width: 150px;
+  max-height: 55px;
+  margin-left: 100px;
+}
+
+.unorderlist li {
+  margin-right: 60px;
+}
+
+.unorderlist li a {
+  text-decoration: none;
+  color: #00572d;
+  font-size: 14px;
+}
